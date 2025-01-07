@@ -6,7 +6,7 @@ Group: К4110с
 Author: ABU HUSSAIN Ghaith
 Lab: Lab1
 Date of create: 07.01.2025
-Date of finished: 31.09.2023
+Date of finished: 09.01.2025
 
 # Lab1
 In this lab we created a pod with the name vault in the local worker node. The pod will run a container with the name *vault* and image *hashicorp/vault:latest*.
@@ -58,4 +58,6 @@ We can find from the output of this command that the root token is `ghaith`:
     Unseal Key: mcA6Z6BqEGmmwray97dT0/1VsSDIos3CaiXifeA6W3E=
     Root Token: ghaith
 Here we attach the diagram of the containers and services:
-
+![enter image description here](https://github.com/Ghaith-Abuhussain/2024-2025-introduction_to_distributed_technologies-K4110c-ABU-HUSSAIN-Ghaith/blob/main/lab1/diagram.PNG?raw=true)
+After that we logged in to the vault using the *ghaith* token:
+![enter image description here](https://github.com/Ghaith-Abuhussain/2024-2025-introduction_to_distributed_technologies-K4110c-ABU-HUSSAIN-Ghaith/blob/main/lab1/vault.PNG?raw=true)
