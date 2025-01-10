@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: react-config
+  namespace: default
+data:
+  REACT_APP_USERNAME: "GhaithAbuHussain"
+  REACT_APP_COMPANY_NAME: "itmo"
