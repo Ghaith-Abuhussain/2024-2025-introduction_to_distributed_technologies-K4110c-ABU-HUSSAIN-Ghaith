@@ -1,12 +1,12 @@
-﻿University: [ITMO University](https://itmo.ru/ru/)
-Faculty: [FICT](https://fict.itmo.ru)
-Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)
-Year: 2024/2025
-Group: К4110с
-Author: ABU HUSSAIN Ghaith
-Lab: Lab3
-Date of create: 09.01.2025
-Date of finished: 16.01.2025
+﻿University: [ITMO University](https://itmo.ru/ru/)  
+Faculty: [FICT](https://fict.itmo.ru)  
+Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)  
+Year: 2024/2025  
+Group: К4110с  
+Author: ABU HUSSAIN Ghaith  
+Lab: Lab3  
+Date of create: 09.01.2025  
+Date of finished: 16.01.2025  
 
 # Lab3
 ### Purpose of the work
@@ -176,3 +176,5 @@ Now we can go to the browser using the specified link `react-app.local`. A famil
 ![enter image description here](https://github.com/Ghaith-Abuhussain/2024-2025-introduction_to_distributed_technologies-K4110c-ABU-HUSSAIN-Ghaith/blob/main/lab3/images/17.%20calling_for_react_app_local_with_https.PNG?raw=true)
 So, from the browser, we can check the certificate:
 ![enter image description here](https://github.com/Ghaith-Abuhussain/2024-2025-introduction_to_distributed_technologies-K4110c-ABU-HUSSAIN-Ghaith/blob/main/lab3/images/18.%20display_certificate_from_browser.PNG?raw=true)
+This is the schema of the lab work:
+![enter image description here](https://github.com/Ghaith-Abuhussain/2024-2025-introduction_to_distributed_technologies-K4110c-ABU-HUSSAIN-Ghaith/blob/main/lab3/schema.PNG?raw=true)
