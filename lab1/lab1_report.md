@@ -1,12 +1,12 @@
 ﻿University: [ITMO University](https://itmo.ru/ru/)  
 Faculty: [FICT](https://fict.itmo.ru)  
 Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)  
-Year: 2024/2025
-Group: К4110с
-Author: ABU HUSSAIN Ghaith
-Lab: Lab1
-Date of create: 07.01.2025
-Date of finished: 16.01.2025
+Year: 2024/2025  
+Group: К4110с  
+Author: ABU HUSSAIN Ghaith  
+Lab: Lab1  
+Date of create: 07.01.2025  
+Date of finished: 16.01.2025  
 
 # Lab1
 ### Purpose of the work
