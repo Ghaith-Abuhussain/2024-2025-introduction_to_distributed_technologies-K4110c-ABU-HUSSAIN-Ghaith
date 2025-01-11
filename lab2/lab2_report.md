@@ -1,11 +1,14 @@
-Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)  
+University: [ITMO University](https://itmo.ru/ru/)
+Faculty: [FICT](https://fict.itmo.ru)
+Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)
 Year: 2024/2025  
 Group: K4110c  
-Author: Ghaith ABU HUSSAIN
+Author: ABU HUSSAIN Ghaith
 Lab: Lab2  
 Date of create: 08.01.2025  
-Date of finished: 09.01.2025
+Date of finished: 16.01.2025
 
+# Lab2
 ### Purpose of the work
 Familiarize yourself with the types of container deployment "controllers," familiarize yourself with network services, and deploy your web application.
 ### Progress

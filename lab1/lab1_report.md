@@ -6,7 +6,7 @@ Group: К4110с
 Author: ABU HUSSAIN Ghaith
 Lab: Lab1
 Date of create: 07.01.2025
-Date of finished: 09.01.2025
+Date of finished: 16.01.2025
 
 # Lab1
 In this lab we created a pod with the name vault in the local worker node. The pod will run a container with the name *vault* and image *hashicorp/vault:latest*.
